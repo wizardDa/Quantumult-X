@@ -6,12 +6,6 @@
 
 
 
-<p align="center">
-  <a href="https://github.com/sve1r/Rules-For-Quantumult-X/">
-    <img src="../images/logo.png" alt="Logo" width="160" height="160">
-  </a>
-
-  <h3 align="center">Scripts Part For Quantumult X</h3>
 
   本仓库内内容用于 Quantumult X 中，效果根据自己需求进行挑选。
 
